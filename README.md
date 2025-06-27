@@ -1,5 +1,12 @@
-# 💫 About Me:
-¡Hola! Soy una apasionada de la tecnología de Argentina. Soy Técnica Superior en Ciencia de Datos e Inteligencia Artificial, y actualmente estoy cursando el segundo año de la Tecnicatura Superior en Telecomunicaciones.<br>Me encanta estar en constante aprendizaje y siempre busco nuevas oportunidades para participar en proyectos emocionantes. Estoy abierta a colaborar en proyectos que me permitan aplicar y expandir mis conocimientos. Si tienes una idea interesante o un proyecto en el que podría contribuir, no dudes en contactarme.<br>
+# 💫 Sobre mí:
+Hola, soy María Lilen Guzmán, una apasionada de la tecnología de Argentina.
+Soy Técnica Superior en Ciencia de Datos e Inteligencia Artificial, y actualmente estoy cursando el segundo año de la Tecnicatura Superior en Telecomunicaciones.<br>
+Me interesa seguir aprendiendo todo el tiempo y disfruto mucho involucrarme en proyectos que representen un desafío o que me permitan explorar cosas nuevas.<br>
+Disfruto especialmente desarrollar proyectos de electrónica e IoT (Internet de las Cosas), ya que me ayudan a comprender mejor los conceptos que estudio en la carrera y a seguir aprendiendo por mi cuenta.<br>
+Este repositorio de GitHub lo utilizo como espacio personal para compartir mis proyectos, experimentos y avances, con la intención de documentar mi aprendizaje y contribuir a la comunidad.<br>
+Estoy interesada en colaborar con otras personas que compartan el entusiasmo por la tecnología y la creatividad. Si tienes una propuesta concreta o simplemente deseas intercambiar ideas, estaré encantada de conocerte.<br>
+
+Gracias por visitar mi perfil.
 
 
 ## 🌐 Socials:
