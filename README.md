@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Hola, soy María Lilen Guzmán, una apasionada de la tecnología de Argentina.
+Hola, soy **María Lilen Guzmán**, una apasionada de la tecnología de Argentina.
 Soy Técnica Superior en Ciencia de Datos e Inteligencia Artificial, y actualmente estoy cursando el segundo año de la Tecnicatura Superior en Telecomunicaciones.<br>
 Me interesa seguir aprendiendo todo el tiempo y disfruto mucho involucrarme en proyectos que representen un desafío o que me permitan explorar cosas nuevas.<br>
 Disfruto especialmente desarrollar proyectos de electrónica e IoT (Internet de las Cosas), ya que me ayudan a comprender mejor los conceptos que estudio en la carrera y a seguir aprendiendo por mi cuenta.<br>
